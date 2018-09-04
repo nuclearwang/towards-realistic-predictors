@@ -28,3 +28,13 @@ For questions, feel free to reach
 ```
 Pei Wang: peiwang062@gmail.com
 ```
+
+## Citation
+If you use our code/model/data, please cite our paper:
+
+    @inproceedings{wang18towards,
+      author = {Pei Wang, Nuno Vasconcelos},
+      Title = {Towards Realistic Predictors},
+      booktitle = {ECCV},
+      Year  = {2018}
+    }
